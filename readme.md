@@ -29,7 +29,7 @@ Activate the virtual environment:
   ```
 
 ### Step 3: Install Dependencies
-Install the required dependencies:
+Install the required dependencies using `requirements.txt`:
 ```bash
 pip install -r requirements.txt
 ```
